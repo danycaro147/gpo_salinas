@@ -1,0 +1,2 @@
+# gpo_salinas
+minblog
