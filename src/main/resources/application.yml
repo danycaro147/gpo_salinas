@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: miniblog
+  datasource:
+    url: jdbc:postgresql://localhost:5432/invitaciones
+    username: invitaciones
+    password: invitaciones123
